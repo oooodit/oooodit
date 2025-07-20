@@ -22,7 +22,7 @@ Full-stack developer in the making, passionate about building scalable web appli
 `C` `JavaScript` `Java` `SQL` `C#` `HTML` `CSS`
 
 **Frameworks & Tools**  
-`React.js` `Node.js` `.NET Core` `Bootstrap` `Git` `SQL Server Management Studio` `VS Code` `Sublime` 
+`React.js` `Node.js` `.NET Core` `Flutter` `Bootstrap` `Git` `SQL Server Management Studio` `VS Code` `Sublime` 
 
 ---
 
