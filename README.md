@@ -2,8 +2,6 @@
 
 Full-stack developer in the making, passionate about building scalable web applications and learning technologies that power real-world solutions.
 
-<!-- Optional: Add a banner image here -->
-
 ---
 
 ### 👨‍🎓 About Me
@@ -16,14 +14,37 @@ Full-stack developer in the making, passionate about building scalable web appli
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Languages & Tools
 
-**Languages**  
-`C` `JavaScript` `Java` `SQL` `C#` `HTML` `CSS`
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+</p>
 
-**Frameworks & Tools**  
-`React.js` `Node.js` `.NET Core` `Flutter` `Bootstrap` `Git`  
-`SQL Server Management Studio` `VS Code` `Sublime`
+---
+
+### 📊 GitHub Stats & Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oooodit&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oooodit&theme=tokyonight" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooodit&layout=compact&theme=tokyonight&langs_count=8" width="60%"/>
+</p>
 
 ---
 
