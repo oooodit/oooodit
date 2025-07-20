@@ -2,15 +2,15 @@
 
 Full-stack developer in the making, passionate about building scalable web applications and learning technologies that power real-world solutions.
 
-<!-- Add a simple banner image if you'd like -->
+<!-- Optional: Add a banner image here -->
 
 ---
 
 ### 👨‍🎓 About Me
 
 - 🎓 MCA student at **Darshan University**, BCA from **St. Xavier's College, Ahmedabad**
-- 🔭 Currently diving deep into **Javascript, MySQL, Flutter, .NET Development**
-- 💬 Also skilled in Client Communication, Requirement Understanding, and Collaborative Problem-Solving in Team Environments.
+- 🔭 Currently diving deep into **JavaScript, MySQL, Flutter, .NET Development**
+- 💬 Skilled in **Client Communication**, **Requirement Understanding**, and **Collaborative Problem-Solving** in team environments
 - 🛠️ Focused on solving real-world problems, writing clean code, and shipping working products
 - 🌐 Learning by building — always open to collaboration
 
@@ -22,7 +22,8 @@ Full-stack developer in the making, passionate about building scalable web appli
 `C` `JavaScript` `Java` `SQL` `C#` `HTML` `CSS`
 
 **Frameworks & Tools**  
-`React.js` `Node.js` `.NET Core` `Flutter` `Bootstrap` `Git` `SQL Server Management Studio` `VS Code` `Sublime` 
+`React.js` `Node.js` `.NET Core` `Flutter` `Bootstrap` `Git`  
+`SQL Server Management Studio` `VS Code` `Sublime`
 
 ---
 
@@ -41,16 +42,11 @@ Full-stack developer in the making, passionate about building scalable web appli
 
 ---
 
-### 🧑‍💻 GitHub Focus
+### 🏆 GitHub Trophies
 
-Currently focusing on **building real-world projects** and preparing contributions to  
-[WordPress](https://github.com/WordPress) and [Frappe](https://github.com/frappe).
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=oooodit&label=Profile+Views&color=blue" alt="oooodit" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oooodit&theme=onedark&column=6&margin-w=15&margin-h=15" />
 </p>
-
-➡️ [Visit GitHub](https://github.com/oooodit)
 
 ---
 
