@@ -41,12 +41,16 @@ Full-stack developer in the making, passionate about building scalable web appli
 
 ---
 
-### 📈 GitHub Overview
+### 🧑‍💻 GitHub Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oooodit&show_icons=true&theme=react&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oooodit&theme=react&hide_border=false" width="47%" />
+Currently focusing on **building real-world projects** and preparing contributions to  
+[WordPress](https://github.com/WordPress) and [Frappe](https://github.com/frappe).
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=oooodit&label=Profile+Views&color=blue" alt="oooodit" />
 </p>
+
+➡️ [Visit GitHub](https://github.com/oooodit)
 
 ---
 
