@@ -9,20 +9,20 @@ Full-stack developer in the making, passionate about building scalable web appli
 ### 👨‍🎓 About Me
 
 - 🎓 MCA student at **Darshan University**, BCA from **St. Xavier's College, Ahmedabad**
-- 🔭 Currently diving deep into **PHP, MySQL, WordPress Plugin Development**
-- 💬 Also skilled in **MERN Stack**, **.NET Core**, and **Database Design**
+- 🔭 Currently diving deep into **Javascript, MySQL, Flutter, .NET Development**
+- 💬 Also skilled in Client Communication, Requirement Understanding, and Collaborative Problem-Solving in Team Environments.
 - 🛠️ Focused on solving real-world problems, writing clean code, and shipping working products
-- 🌐 Learning by building — always open to collaboration and open-source
+- 🌐 Learning by building — always open to collaboration
 
 ---
 
 ### 🔧 Tech Stack
 
 **Languages**  
-`PHP` `JavaScript` `SQL` `C#` `HTML` `CSS`
+`C` `JavaScript` `Java` `SQL` `C#` `HTML` `CSS`
 
 **Frameworks & Tools**  
-`React.js` `Node.js` `.NET Core` `WordPress` `Bootstrap` `Git` `MySQL` `VS Code` `Postman`
+`React.js` `Node.js` `.NET Core` `Bootstrap` `Git` `SQL Server Management Studio` `VS Code` `Sublime` 
 
 ---
 
@@ -31,10 +31,13 @@ Full-stack developer in the making, passionate about building scalable web appli
 - 💬 [**Noddy Chat** – Real-Time MERN Chat App](https://github.com/oooodit/NoddyChat-MERN-Stack-Project)  
   Real-time messaging with user authentication, encryption & media sharing.
 
+- 🛒 [**ComicCon** – MERN E-Commerce Website](https://github.com/oooodit/Bookstore-MERN)  
+  Built using MongoDB, Express.js, React.js, and Node.js with Firebase Google Auth. Includes an admin dashboard, responsive UI, and cart functionality.
+
 - 📚 [**BookShoppingCart** – ASP.NET Core E-Commerce](https://github.com/oooodit/BookShoppingCart-MVC-AspDotNetCore)  
   Built with MVC Architecture, Repository Pattern, Bootstrap UI, and SQL Server.
 
-- 🛠️ *(Upcoming)* WordPress Plugin Project — stay tuned!
+- 🛠️ *(Upcoming)* Flutter App — stay tuned!
 
 ---
 
@@ -52,13 +55,6 @@ Full-stack developer in the making, passionate about building scalable web appli
 <a href="https://in.linkedin.com/in/udit-khalpada-840a05245" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/oooodit" target="_blank">GitHub</a> | 
 <a href="mailto:uditkhalpada999@gmail.com">uditkhalpada999@gmail.com</a>
-
----
-
-### 🚀 Open-Source Goals
-
-📌 Working toward making meaningful pull requests to  
-[WordPress](https://github.com/WordPress), [Frappe](https://github.com/frappe), and [React](https://github.com/facebook/react)
 
 ---
 
